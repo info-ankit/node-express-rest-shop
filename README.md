@@ -7,11 +7,11 @@ Add new git repository on your existing system, If code already exits in your lo
 
 Header
 
-* git init
-* git add README.md
-* git commit -m "first commit"
-* git remote add origin https://github.com/info-ankit/node-express-rest-shop.git
-* git push -u origin master
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git remote add origin https://github.com/info-ankit/node-express-rest-shop.git
+  git push -u origin master
 
 Clone new git repository on your existing system, when you want to get whole code from git.
 
