@@ -1,0 +1,9 @@
+{
+  "env": {
+    "PORT": 3000,
+    "MONGO_USR": "gshukla67@gmail.com",
+    "MONGO_PWD": "jade#6789",
+    "MONGO_DB_USR": "node-express-conf",
+    "MONGO_DB_PWD": "a1dBxtSIZCIzVmep"
+  }
+}

@@ -23,7 +23,5 @@ Clone new git repository on your existing system, when you want to get whole cod
 
 Push your code from local to git.
 
-Header
-
 * git remote add origin https://github.com/info-ankit/node-express-rest-shop.git
 * git push -u origin master
