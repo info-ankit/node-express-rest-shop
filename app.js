@@ -26,6 +26,7 @@ app.use((req, res, next) => {
 app.use('/api', apiRoute);
 // app.use('/api/orders', routeOrders);
 // app.use('/api/products', routeProducts);
+
 /*
 app.use((req, res, next) => {
   res.status(200).json({"message":"It Works!!"});
